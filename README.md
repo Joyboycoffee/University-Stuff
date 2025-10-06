@@ -18,4 +18,4 @@ All programs are written in a clear, simple way and can be compiled using GCC or
 ### ⚙️ How to Run
 1. Clone the repository  
    ```bash
-   git clone [https://github.com/Joyboycoffee/University-Stuff]
+   git clone https://github.com/Joyboycoffee/University-Stuff

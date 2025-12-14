@@ -1,0 +1,31 @@
+AIMs for Your C Practicals
+
+1. Aim: Write a program to show insertion and deletion operations in an array.
+
+2. Aim: Write a program to sort elements using Quick Sort technique.
+
+3. Aim: Write a program to sort elements using Merge Sort technique.
+
+4. Aim: Write a program to sort elements using Selection Sort technique.
+
+5. Aim: Write a program to implement Kruskal’s algorithm to find minimum spanning tree.
+
+6. Aim: Write a program to implement Prim’s algorithm to find minimum spanning tree.
+
+7. Aim: Write a program to implement Breadth First Search (BFS) using adjacency matrix and queue.
+
+8. Aim: Write a program to implement Depth First Search (DFS) of a graph.
+
+9. Aim: Write a program to implement Dijkstra’s algorithm using adjacency matrix.
+
+10. Aim: Write a program to find all-pairs shortest paths using Floyd Warshall algorithm.
+
+11. Aim: Write a program to implement queue operations.
+
+12. Aim: Write a program to implement stack operations.\
+
+13. Aim: Write a program to implement singly linked list operations.
+
+14. Aim: Write a program to implement graph coloring algorithm.
+
+15. Aim: Write a program to solve Travelling Salesman Problem using dynamic programming.

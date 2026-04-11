@@ -23,3 +23,4 @@ if choice == 'Y':
     print(f"GYM Membership fee is = {membership - discount} Per Person")
 else:
     print(f"GYM Membership fee is = {membership - discount}")
+

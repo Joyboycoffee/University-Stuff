@@ -2,7 +2,7 @@ import requests
 
 TARGET_TEMP = -28
 
-# Step 1: Check if freezer has items
+# Step 1: Items
 has_items = input("Is there something inside freezer? (y/n): ").lower()
 
 if has_items != 'y':

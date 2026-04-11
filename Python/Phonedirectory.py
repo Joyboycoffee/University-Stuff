@@ -34,12 +34,12 @@ def contact_list():
                     del contact_book[name]
                     print("---Contact Removed---")
             else:
-                print("---Name not found in contact book---")
+                print("---Name not found in contact book.---")
 
-        if choice == '3':
-            if not contact_book:
+        if choice == "3": 
+           if not contact_book:
                 print("Contact Book Empty!!")
-            else:
+           else:
                 print("---Current Contacts---")
                 for name,number in contact_book.items():
                     print(f"{name}: {number}\n")

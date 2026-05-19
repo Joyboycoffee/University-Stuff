@@ -54,7 +54,7 @@ while True:
     issues = validate_password(password)
     
     if not issues:
-        print("✓ Password is STRONG! All requirements met.")
+        print("Password is STRONG! All requirements met.")
     else:
         print("✗ Password needs improvement:")
         for issue in issues:

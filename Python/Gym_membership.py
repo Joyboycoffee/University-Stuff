@@ -1,3 +1,4 @@
+print ("{Gourav}, Date: {15-04-2026")
 membership = 3500
 age = int(input("Enter age:"))
 discount = 0

@@ -1,5 +1,6 @@
 # Email Validator - Sort Valid Emails from Distorted List
 # Simple program to filter valid emails
+print ("{Gourav}, Date: {15-04-2026")
 
 import re
 
@@ -12,16 +13,7 @@ email_list = [
     "jane.doe@gmail.com",
     "invalid.email",
     "test@@example.com",
-    "user@domain",
-    "alice@company.co.uk",
-    "no-email@",
-    "bob_smith@yahoo.com",
-    "@notvalid.com",
-    "perfect@mail.org",
-    "spaces in@email.com",
-    "another.valid@test.com",
-    "missing@domain",
-    "user123@test.io"
+    "user@domain"
 ]
 
 print("\nOriginal Email List:")

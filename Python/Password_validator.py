@@ -1,5 +1,6 @@
 # Password Validator - Check Strength and Suggest Improvements
 # Simple program to validate password requirements
+print ("{Gourav}, Date: {25-04-2026")
 
 print("=" * 55)
 print("Password Validator")

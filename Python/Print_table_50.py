@@ -1,5 +1,6 @@
 # Print Multiplication Table till 50
 # Simple program to print a multiplication table
+print ("{Gourav}, Date: {25-04-2026")
 
 number = int(input("Enter a number to print its table: "))
 limit = 50

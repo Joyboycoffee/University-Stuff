@@ -1,3 +1,4 @@
+print ("{Gourav}, Date: {15-04-2026}")
 def organize_registration():
     students = {}
     max_seats = 100

@@ -1,3 +1,4 @@
+print ("{Gourav}, Date: {15-04-2026")
 # base currency = USD
 rates = {
     "USD": 1,

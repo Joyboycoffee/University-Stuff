@@ -1,3 +1,4 @@
+print ("{Gourav}, Date: {01-05-2026")
 def count_chars_words(text):
     char_count = 0
     word_count = 0

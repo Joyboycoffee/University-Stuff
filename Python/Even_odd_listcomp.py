@@ -1,6 +1,6 @@
 # Even or Odd using List Comprehension
 # Simple program to identify even and odd numbers from 1 to 50
-print ("{Gourav}, Date: {25-04-2026")*
+print ("{Gourav}, Date: {25-04-2026")
 numbers = list(range(1, 51))
 
 # Using list comprehension to get even numbers

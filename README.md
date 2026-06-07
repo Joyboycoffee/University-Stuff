@@ -1,6 +1,6 @@
-# 🎓 C Programming Practicals
+# 🎓 Programming Practicals
 
-This repository contains a collection of C programming exercises completed during my university coursework.  
+This repository contains a collection of programming exercises completed during my university coursework.  
 It includes programs covering core concepts of C such as basic input/output, loops, conditionals, functions (both recursive and non-recursive), arrays, pointers, strings, matrices, and sorting/searching algorithms.
 
 The purpose of this collection is to help beginners understand and practice C programming fundamentals through well-structured examples.  
